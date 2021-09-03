@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexander-Gribtsov
 - 👀 I’m interested in Computer Sciences
-- 🌱 I’m currently learning Data Science, Artificial Intelligence specifically and Cyber Security 
+- 🌱 I’m currently learning Data Science, Artificial Intelligence and Cyber Security 
 - 💞️ I’m looking to collaborate on AI involving cryptocurrency technologies
 - 📫 How to reach me alexander.rightech@gmail.com
 
